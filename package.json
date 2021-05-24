@@ -1,5 +1,6 @@
 {
   "name": "javascript-calculator",
+  "homepage": "https://bishalmallick.github.io/react-calculator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
